@@ -1,6 +1,6 @@
 //
 //  LocationListViewController.swift
-//  WeatherGift /
+//  WeatherGift //
 //
 //  Created by Danny Park on 3/13/22.
 //

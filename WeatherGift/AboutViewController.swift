@@ -1,6 +1,6 @@
 //
 //  AboutViewController.swift
-//  WeatherGift
+//  WeatherGift/
 //
 //  Created by Danny Park on 3/28/22.
 //
